@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.exe
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.deps.json
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.runtimeconfig.json
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.dll
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\bin\Debug\netcoreapp3.1\ITHSLab.pdb
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.dll
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.pdb
+C:\Users\Danny\source\repos\Laboration1\ITHSLab\obj\Debug\netcoreapp3.1\ITHSLab.genruntimeconfig.cache
